@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1658753119599,
+    "nombre": "Lavarropa",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+    "precio": 65000
+  },
+  {
+    "id": 2,
+    "timestamp": 1658753329979,
+    "nombre": "Lavarropa",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+    "precio": 65000
+  },
+  {
+    "id": 3,
+    "timestamp": 1658753331072,
+    "nombre": "Lavarropa",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+    "precio": 65000
+  }
+]

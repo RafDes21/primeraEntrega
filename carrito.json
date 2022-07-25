@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1658753190368,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1658753296082,
+        "nombre": "Lavarropa",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+        "precio": 65000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 1658753285023,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1658753303356,
+        "nombre": "Lavarropa",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+        "precio": 65000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": 1658753286038,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1658753308064,
+        "nombre": "Lavarropa",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+        "precio": 65000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "timestamp": 1658753286930,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1658753322363,
+        "nombre": "Lavarropa",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSburI24vM283kpk4JxcbjV09dz-Sj85KhxoA&usqp=CAU",
+        "precio": 65000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timestamp": 1658753313628,
+    "productos": []
+  }
+]
